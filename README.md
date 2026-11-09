@@ -98,17 +98,17 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 
 ### Todas las actividades prácticas
 
-| Lección | Actividad | Duración del video | Editor / enlace |
-|---|---|---:|---|
-| 1 | Explorar un sitio web | 5 min | JSFiddle — pendiente |
-| 2 | Mi primera página | 8 min | JSFiddle — pendiente |
-| 3 | Mi pasatiempo favorito | 7 min | JSFiddle — pendiente |
-| 4 | Imagen y enlace | 7 min | JSFiddle — pendiente |
-| 5 | Estilo a mi página | 9 min | JSFiddle — pendiente |
-| 6 | Mi tarjeta | 8 min | JSFiddle — pendiente |
-| 7 | Mi página de perfil (proyecto final) | 11 min | JSFiddle — pendiente |
-| 8 | Encuentra los errores | 5 min | JSFiddle — pendiente |
-| **Total** | **8 lecciones** | **60 min** | |
+| Lección | Actividad | Editor / enlace |
+|---|---|---|
+| 1 | Explorar un sitio web | JSFiddle — pendiente |
+| 2 | Mi primera página | JSFiddle — pendiente |
+| 3 | Mi pasatiempo favorito | JSFiddle — pendiente |
+| 4 | Imagen y enlace| JSFiddle — pendiente |
+| 5 | Estilo a mi página | JSFiddle — pendiente |
+| 6 | Mi tarjeta | JSFiddle — pendiente |
+| 7 | Mi página de perfil (proyecto final)| JSFiddle — pendiente |
+| 8 | Encuentra los errores | JSFiddle — pendiente |
+
 
 > **Tiempo de práctica adicional:** Se recomienda pausar los videos para completar cada ejercicio. Las actividades pueden tomar entre 3 y 5 minutos, excepto el proyecto final, que puede requerir entre 10 y 15 minutos adicionales. Estos tiempos no están incluidos en los 60 minutos de video.
 
