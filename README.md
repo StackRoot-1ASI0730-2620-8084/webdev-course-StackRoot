@@ -20,7 +20,7 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 
 ## Secuencia de las lecciones
 
-### Lección 1: ¿Qué es un sitio web? (5 minutos)
+### Lección 1: ¿Qué es un sitio web? (3 minutos)
 
 - **Descripción:** Descubre qué es un sitio web, cómo se comunica el navegador con un servidor y qué funciones cumplen HTML y CSS. Conoce JSFiddle y sus paneles de edición.
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
@@ -37,7 +37,7 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Práctica — Mi primera página:** Escribe un título con un apodo inventado y dos párrafos; elimina temporalmente una etiqueta de cierre, observa el resultado y corrígela.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
-### Lección 3: Títulos, párrafos y listas (7 minutos)
+### Lección 3: Títulos, párrafos y listas (3 minutos)
 
 - **Descripción:** Organiza la información de una página sobre un pasatiempo mediante encabezados, párrafos, texto destacado y listas.
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
@@ -45,7 +45,7 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Práctica — Mi pasatiempo favorito:** Crea un título principal, dos subtítulos, párrafos y una lista de tres razones; cambia una lista de viñetas por una numerada.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
-### Lección 4: Imágenes y enlaces (7 minutos)
+### Lección 4: Imágenes y enlaces (2 minutos 25 segundos)
 
 - **Descripción:** Enriquece tu página con imágenes y enlaces, cuidando la accesibilidad y la procedencia de los recursos.
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
@@ -69,7 +69,7 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Práctica — Mi tarjeta:** Crea una tarjeta con un apodo y un pasatiempo, céntrala, añade un borde y esquinas redondeadas; prueba diferentes colores y radios.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
-### Lección 7: Construye tu página de perfil (11 minutos)
+### Lección 7: Construye tu página de perfil (11 minutos 38 segundos)
 
 - **Descripción:** Integra HTML y CSS para crear una página de perfil ficticio, comenzando con un boceto y terminando con una tarjeta personalizada.
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
@@ -79,7 +79,7 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Privacidad:** Usa un apodo y datos ficticios o generales; no publiques nombre completo, colegio, dirección, teléfono ni fotografías personales.
 - **Compartir:** Si está disponible, utiliza la función de guardar o compartir de JSFiddle; puede requerir iniciar sesión.
 
-### Lección 8: Errores comunes y próximos pasos (5 minutos)
+### Lección 8: Errores comunes y próximos pasos (2 minutos 42 segundos)
 
 - **Descripción:** Identifica errores frecuentes en HTML y CSS, aprende a comprobar el código y conoce recursos para continuar practicando.
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
@@ -98,16 +98,16 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 
 ### Todas las actividades prácticas
 
-| Lección | Actividad | Editor / enlace |
+| Lección | Actividad |  Empezar a Programar |
 |---|---|---|
-| 1 | Explorar un sitio web | JSFiddle — pendiente |
-| 2 | Mi primera página | JSFiddle — pendiente |
-| 3 | Mi pasatiempo favorito | JSFiddle — pendiente |
-| 4 | Imagen y enlace| JSFiddle — pendiente |
-| 5 | Estilo a mi página | JSFiddle — pendiente |
-| 6 | Mi tarjeta | JSFiddle — pendiente |
-| 7 | Mi página de perfil (proyecto final)| JSFiddle — pendiente |
-| 8 | Encuentra los errores | JSFiddle — pendiente |
+| 1 | Explorar un sitio web | https://youtu.be/ucJDPxhQoi0 |
+| 2 | Mi primera página | pendiente |
+| 3 | Mi pasatiempo favorito | pendiente |
+| 4 | Imagen y enlace| pendiente |
+| 5 | Estilo a mi página | pendiente |
+| 6 | Mi tarjeta | pendiente |
+| 7 | Mi página de perfil (proyecto final)| pendiente |
+| 8 | Encuentra los errores | pendiente |
 
 
 > **Tiempo de práctica adicional:** Se recomienda pausar los videos para completar cada ejercicio. Las actividades pueden tomar entre 3 y 5 minutos, excepto el proyecto final, que puede requerir entre 10 y 15 minutos adicionales. Estos tiempos no están incluidos en los 60 minutos de video.
@@ -132,15 +132,6 @@ El cuestionario puede evaluar los siguientes temas del guion:
 ```text
 webdev-course-stackroot/
 ├── README.md
-├── starter-files/
-│   ├── ejercicio-01/
-│   ├── ejercicio-02/
-│   ├── ejercicio-03/
-│   ├── ejercicio-04/
-│   ├── ejercicio-05/
-│   ├── ejercicio-06/
-│   ├── ejercicio-07/
-│   └── ejercicio-08/
 ├── completed-examples/
     ├── ejercicio-01/
     ├── ejercicio-02/
