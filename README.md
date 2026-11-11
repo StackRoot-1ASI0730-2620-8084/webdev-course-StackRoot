@@ -114,9 +114,9 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 
 ### Cuestionario final
 
-**Enlace:** [Pendiente de agregar formulario].
+**Enlace:**  https://docs.google.com/forms/d/e/1FAIpQLSfX7Az0fbt6DxwovCDy7jvhhaJMbwd4bSQXy6rYgELKymm-Mg/viewform?usp=dialog
 
-El cuestionario puede evaluar los siguientes temas del guion:
+El cuestionario puede evaluar los siguientes temas:
 
 1. Diferencia entre HTML y CSS.
 2. Etiquetas de apertura y cierre.
