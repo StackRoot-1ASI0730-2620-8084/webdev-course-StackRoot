@@ -75,7 +75,6 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
 - **Conceptos clave:** Estructura con `<div class="perfil">`, imagen, encabezados, párrafos, lista de gustos y enlace; estilos de fondo, tipografía, bordes, centrado e imagen circular con `border-radius: 50%`.
 - **Proyecto final — Mi página de perfil:** Diseña un boceto, escribe el contenido HTML, aplica los estilos CSS y personaliza el apodo, los gustos, la imagen y los colores.
-- **Ejemplo en JSFiddle:** [Pendiente de agregar enlace del Ejercicio 7].
 - **Privacidad:** Usa un apodo y datos ficticios o generales; no publiques nombre completo, colegio, dirección, teléfono ni fotografías personales.
 - **Compartir:** Si está disponible, utiliza la función de guardar o compartir de JSFiddle; puede requerir iniciar sesión.
 
@@ -85,9 +84,8 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
 - **Conceptos clave:** Cierre de etiquetas, comillas en atributos, punto y coma y llaves de CSS, coincidencia de nombres de clase, texto `alt` y jerarquía de encabezados.
 - **Práctica — Encuentra los errores:** Corrige una página con una etiqueta sin cerrar, atributos incompletos, una clase mal escrita y un error de sintaxis CSS; vuelve a ejecutar con **Run**.
-- **Ejemplo en JSFiddle:** [Pendiente de agregar enlace del Ejercicio 8].
 - **Recursos para continuar:** [MDN Web Docs](https://developer.mozilla.org/es/) y [Validador HTML de W3C](https://validator.w3.org/).
-- **Cuestionario final:** [Pendiente de agregar enlace del cuestionario].
+- **Cuestionario final:** https://docs.google.com/forms/d/e/1FAIpQLSfX7Az0fbt6DxwovCDy7jvhhaJMbwd4bSQXy6rYgELKymm-Mg/viewform?usp=dialog
 
 ## Recursos adicionales
 
@@ -108,9 +106,6 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 | 6 | Mi tarjeta | pendiente |
 | 7 | Mi página de perfil (proyecto final)| pendiente |
 | 8 | Encuentra los errores | pendiente |
-
-
-> **Tiempo de práctica adicional:** Se recomienda pausar los videos para completar cada ejercicio. Las actividades pueden tomar entre 3 y 5 minutos, excepto el proyecto final, que puede requerir entre 10 y 15 minutos adicionales. Estos tiempos no están incluidos en los 60 minutos de video.
 
 ### Cuestionario final
 
