@@ -6,7 +6,7 @@
 
 ## Resumen del curso
 
-Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a crear y personalizar una página web sencilla con **HTML y CSS**, desde la estructura y los elementos básicos hasta colores, bordes, imágenes y enlaces. El aprendizaje se organiza en ocho videos con demostraciones y actividades prácticas en **JSFiddle**, sin instalaciones.
+Este curso introductorio enseña a estudiantes de secundaria a crear y personalizar una página web sencilla con **HTML y CSS**, desde la estructura y los elementos básicos hasta colores, bordes, imágenes y enlaces. El aprendizaje se organiza en ocho videos con demostraciones y actividades prácticas en **JSFiddle**, sin instalaciones.
 
 - **Duración total:** 60 minutos (8 lecciones).
 - **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia previa.
@@ -29,7 +29,7 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
 
-### Lección 2: Tu primera página: la estructura HTML (8 minutos)
+### Lección 2: Tu primera página: la estructura HTML (4 minutos)
 
 - **Descripción:** Aprende qué son las etiquetas, los elementos y los atributos, y reconoce el esqueleto de una página HTML: `<!DOCTYPE html>`, `html`, `head`, `title` y `body`.
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
@@ -53,7 +53,7 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Práctica — Imagen y enlace:** Agrega una imagen con descripción alternativa y ajusta su ancho; crea un enlace a [MDN Web Docs](https://developer.mozilla.org/es/) y prueba su funcionamiento.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
-### Lección 5: Dale estilo con CSS (9 minutos)
+### Lección 5: Dale estilo con CSS (3 minutos 35 segundos) 
 
 - **Descripción:** Aprende a escribir reglas CSS, utilizar selectores y personalizar el fondo, los títulos, los párrafos y las frases destacadas.
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
@@ -61,7 +61,7 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 - **Práctica — Estilo a mi página:** Cambia el fondo y la fuente, modifica los colores de los encabezados y crea una clase `destacado` para resaltar un párrafo.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/) 👈 **¡No necesitas registrarte!**
 
-### Lección 6: Centrar, colores y bordes (8 minutos)
+### Lección 6: Centrar, colores y bordes (3 minutos)
 
 - **Descripción:** Aprende a centrar contenido y construir una tarjeta visual mediante el modelo de caja de CSS.
 - **Enlace al video:** [Pendiente de agregar enlace de YouTube].
@@ -99,13 +99,13 @@ Este curso introductorio de **60 minutos** enseña a estudiantes de secundaria a
 | Lección | Actividad |  Empezar a Programar |
 |---|---|---|
 | 1 | Explorar un sitio web | https://youtu.be/ucJDPxhQoi0 |
-| 2 | Mi primera página | pendiente |
-| 3 | Mi pasatiempo favorito | pendiente |
-| 4 | Imagen y enlace| pendiente |
-| 5 | Estilo a mi página | pendiente |
-| 6 | Mi tarjeta | pendiente |
-| 7 | Mi página de perfil (proyecto final)| pendiente |
-| 8 | Encuentra los errores | pendiente |
+| 2 | Mi primera página |https://youtu.be/GMeuVcjh6V4 |
+| 3 | Mi pasatiempo favorito | https://youtu.be/QJMjNJyawd8 |
+| 4 | Imagen y enlace| https://youtu.be/HLJWS39cQuw |
+| 5 | Estilo a mi página | https://youtu.be/zdUwMJPIYbI |
+| 6 | Mi tarjeta | https://youtu.be/76i1qR0ceBE |
+| 7 | Mi página de perfil (proyecto final)| https://youtu.be/uTgU4vCout4 |
+| 8 | Encuentra los errores | https://youtu.be/bBcIm8tllvU |
 
 ### Cuestionario final
 

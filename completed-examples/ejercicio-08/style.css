@@ -1,0 +1,6 @@
+/* Solución: el nombre de la clase coincide con el HTML
+   y todas las declaraciones terminan en punto y coma. */
+.destacado {
+  color: red;
+  font-size: 20px;
+}

@@ -1,0 +1,25 @@
+/* Selector de elemento: cambia el fondo y la letra de toda la página. */
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkblue;
+  font-size: 40px;
+}
+
+h2 {
+  color: teal;
+}
+
+p {
+  color: #333333;
+  font-size: 18px;
+}
+
+/* Selector de clase: solo cambia el elemento con class="destacado". */
+.destacado {
+  color: crimson;
+  font-weight: bold;
+}
