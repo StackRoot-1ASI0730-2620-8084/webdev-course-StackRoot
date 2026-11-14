@@ -126,16 +126,32 @@ El cuestionario puede evaluar los siguientes temas:
 
 ```text
 webdev-course-stackroot/
-├── README.md
-├── completed-examples/
-    ├── ejercicio-01/
-    ├── ejercicio-02/
-    ├── ejercicio-03/
-    ├── ejercicio-04/
-    ├── ejercicio-05/
-    ├── ejercicio-06/
-    ├── perfil/
-    └── ejercicio-08/
+├── README.md                  
+├── starter-files/             
+│   ├── README.md
+│   ├── ejercicio-01/
+│   ├── ejercicio-02/
+│   ├── ejercicio-03/
+│   ├── ejercicio-04/
+│   ├── ejercicio-05/
+│   ├── ejercicio-06/
+│   ├── perfil/
+│   └── ejercicio-08/
+├── completed-examples/       
+│   ├── ejercicio-01/
+│   ├── ejercicio-02/
+│   ├── ejercicio-03/
+│   ├── ejercicio-04/
+│   ├── ejercicio-05/
+│   ├── ejercicio-06/
+│   ├── perfil/
+│   └── ejercicio-08/
+└── scripts/                  
+    ├── README.md
+    ├── guion-completo.md
+    ├── leccion-01.md
+    ├── ...
+    └── leccion-08.md
 ```
 
 

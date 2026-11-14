@@ -1,0 +1,11 @@
+/* Completa la tarjeta con las propiedades del video. */
+body { font-family: Arial, sans-serif; background-color: #f0f8ff; }
+.tarjeta {
+  max-width: 300px;
+  /* Agrega padding: 20px; */
+  /* Agrega border: 3px solid darkblue; */
+  /* Agrega border-radius: 15px; */
+  /* Agrega background-color: lightyellow; */
+  /* Agrega text-align: center; */
+  /* Agrega margin: 0 auto; */
+}

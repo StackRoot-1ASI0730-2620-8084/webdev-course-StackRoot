@@ -1,0 +1,5 @@
+/* Proyecto final: combina lo aprendido en las lecciones 1 a 6. */
+body { font-family: Arial, sans-serif; background-color: #eef4ff; }
+.perfil { max-width: 420px; margin: 30px auto; padding: 24px; background: white; border: 2px solid #24437c; border-radius: 18px; text-align: center; }
+.perfil img { border-radius: 50%; max-width: 100%; }
+.perfil ul { display: inline-block; text-align: left; }
