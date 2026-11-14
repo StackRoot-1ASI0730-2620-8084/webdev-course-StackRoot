@@ -1,0 +1,4 @@
+/* Hay errores intencionales: encuentra y corrige la sintaxis y el selector. */
+body { background-color: lightyellow; font-family: Arial, sans-serif; }
+.destacada { color: darkblue; font-weight: bold; }
+h1 { color darkblue; }

@@ -141,7 +141,9 @@ webdev-course-StackRoot/
 ├── README.md
 ├── starter-files/        # Código inicial de cada práctica
 ├── completed-examples/   # Solución de cada práctica
-└── scripts/              # Guion breve de cada lección
+├── scripts/              # Guion breve de cada lección
+│   └── guion-completo.md # Guion completo de los 8 videos
+└── alternativas-equipo/  # Versiones alternativas de starter-files/ y scripts/
 ```
 
 Cada práctica usa la misma carpeta en `starter-files/` y `completed-examples/`: `ejercicio-01` a `ejercicio-06`, `perfil` (lección 7) y `ejercicio-08`.

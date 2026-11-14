@@ -1,0 +1,14 @@
+/* Completa las propiedades y ejecuta con Run después de cada cambio. */
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  /* Agrega color: darkblue; y font-size: 40px; */
+}
+p {
+  /* Agrega color: #333333; y font-size: 18px; */
+}
+.destacado {
+  /* Agrega color: darkblue; y font-weight: bold; */
+}
